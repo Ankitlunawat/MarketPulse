@@ -1,0 +1,3 @@
+Backend: 3 workflow tests passed.
+Frontend: npm run build passed.
+Sample: 12 products, 2 synthetic sources, 72 historical observations, 23 available latest offers, 8 latest price drops.
